@@ -1,16 +1,1 @@
-{
-  "name": "SQE Showcase",
-  "short_name": "SQE",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#091326",
-  "theme_color": "#091326",
-  "icons": [
-    {
-      "src": "/icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ]
-}
+{"name":"SQE Showcase","short_name":"SQE Demo","start_url":"./","scope":"./","display":"standalone","theme_color":"#091326","background_color":"#091326"}
